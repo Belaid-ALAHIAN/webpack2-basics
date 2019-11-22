@@ -1,0 +1,23 @@
+{
+  "name": "basic-wp-2",
+  "version": "1.0.0",
+  "description": "webpack basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belaid-ALAHIAN/webpack2-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belaid-ALAHIAN/webpack2-basics/issues"
+  },
+  "homepage": "https://github.com/Belaid-ALAHIAN/webpack2-basics#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
