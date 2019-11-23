@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    
     "build": "webpack-dev-server",
     "build-prod": "webpack -p"
   },
@@ -21,6 +20,7 @@
   "homepage": "https://github.com/Belaid-ALAHIAN/webpack2-basics#readme",
   "devDependencies": {
     "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
   }
 }
